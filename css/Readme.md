@@ -1,5 +1,6 @@
 # Projeto - JobFider 
 
-## Página Inicial - Site para busca de emprego
+## Página Inicial - Site para busca de empregos
 
-Referente as aulas de HTML5 e CSS3
+Atividade, referente as aulas de HTML5 e CSS.
+
