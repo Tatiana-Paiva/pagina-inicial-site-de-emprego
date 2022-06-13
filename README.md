@@ -1,2 +1,5 @@
-# pagina-inicial-site-de-emprego
-Projeto de Página Inicial - Site para busca de empregos (Home Page design - Job search website)
+# Projeto - JobFinder
+
+## Página Inicial - Site para busca de empregos
+
+Atividade prática referente as aulas de HTML5 e CSS3.
