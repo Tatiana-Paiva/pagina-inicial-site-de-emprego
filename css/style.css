@@ -135,8 +135,72 @@ nav:after {
     background-color: #2b79eb;
 }
 
+/*Seção de últimas vagas*/
 
+#lastjobs-container {
+    text-align: center;
+    padding: 100px 0;
+}
 
+.wrapper {
+max-width:  1220px;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+}
+
+#lastjobs-container h1 {
+font-size: 36px;
+margin-bottom: 50px;
+}
+
+#lastjobs-container ul {
+    padding: 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#lastjobs-container ul li {
+    list-style: none;
+    text-align: left;
+    border-bottom: solid 1px #ccc;
+    height: 80px;
+    position: relative;
+}
+
+#lastjobs-container ul li:last-child {
+    border: none;
+}
+
+.clickarea {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;    
+}
+
+/*Company img*/
+
+.company-box {
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    padding-left:  1%;
+}
+
+.company-box img {
+    width: 100px;
+    margin-top: 2.5px;
+}
+
+.company-info {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: left;
+    position: absolute;
+}
 
 
 
