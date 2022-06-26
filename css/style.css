@@ -26,6 +26,12 @@ header {
     width: 100%;
 }
 
+/* Hide on desktop*/
+
+.nav-container .btn-menumobile {
+    display: none;
+}
+
 /*NavBar*/
 
 nav {
@@ -692,6 +698,12 @@ footer .wrapper:after {
         display: block;
         padding: 0;
         margin-bottom: 3em;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .nav-container .btn-menumobile {
+        display: block !important;
     }
 }
 
